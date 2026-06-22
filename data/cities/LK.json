@@ -1,0 +1,127 @@
+{
+  "country": "Sri Lanka",
+  "country_code": "LK",
+  "last_updated": "2026-06-17",
+  "cities": [
+    {
+      "id": 1,
+      "name": "Sri Jayawardenepura Kotte",
+      "province": "Western Province",
+      "province_code": "1",
+      "capital": true,
+      "provincial_capital": true,
+      "latitude": 6.8941,
+      "longitude": 79.9025,
+      "timezone": "Asia/Colombo",
+      "population": 115826
+    },
+    {
+      "id": 2,
+      "name": "Colombo",
+      "province": "Western Province",
+      "province_code": "1",
+      "capital": false,
+      "provincial_capital": false,
+      "latitude": 6.9271,
+      "longitude": 79.8612,
+      "timezone": "Asia/Colombo",
+      "population": 752993
+    },
+    {
+      "id": 3,
+      "name": "Kandy",
+      "province": "Central Province",
+      "province_code": "2",
+      "capital": false,
+      "provincial_capital": true,
+      "latitude": 7.2906,
+      "longitude": 80.6337,
+      "timezone": "Asia/Colombo",
+      "population": 125400
+    },
+    {
+      "id": 4,
+      "name": "Galle",
+      "province": "Southern Province",
+      "province_code": "3",
+      "capital": false,
+      "provincial_capital": true,
+      "latitude": 6.0535,
+      "longitude": 80.2210,
+      "timezone": "Asia/Colombo",
+      "population": 104000
+    },
+    {
+      "id": 5,
+      "name": "Jaffna",
+      "province": "Northern Province",
+      "province_code": "4",
+      "capital": false,
+      "provincial_capital": true,
+      "latitude": 9.6615,
+      "longitude": 80.0255,
+      "timezone": "Asia/Colombo",
+      "population": 88200
+    },
+    {
+      "id": 6,
+      "name": "Anuradhapura",
+      "province": "North Central Province",
+      "province_code": "7",
+      "capital": false,
+      "provincial_capital": true,
+      "latitude": 8.3114,
+      "longitude": 80.4037,
+      "timezone": "Asia/Colombo",
+      "population": 50000
+    },
+    {
+      "id": 7,
+      "name": "Negombo",
+      "province": "Western Province",
+      "province_code": "1",
+      "capital": false,
+      "provincial_capital": false,
+      "latitude": 7.2089,
+      "longitude": 79.8495,
+      "timezone": "Asia/Colombo",
+      "population": 143000
+    },
+    {
+      "id": 8,
+      "name": "Batticaloa",
+      "province": "Eastern Province",
+      "province_code": "5",
+      "capital": false,
+      "provincial_capital": false,
+      "latitude": 7.7102,
+      "longitude": 81.7676,
+      "timezone": "Asia/Colombo",
+      "population": 93641
+    },
+    {
+      "id": 9,
+      "name": "Kurunegala",
+      "province": "North Western Province",
+      "province_code": "6",
+      "capital": false,
+      "provincial_capital": true,
+      "latitude": 7.4863,
+      "longitude": 80.3647,
+      "timezone": "Asia/Colombo",
+      "population": 285612
+    },
+    {
+      "id": 10,
+      "name": "Trincomalee",
+      "province": "Eastern Province",
+      "province_code": "5",
+      "capital": false,
+      "provincial_capital": false,
+      "latitude": 8.5874,
+      "longitude": 81.2152,
+      "timezone": "Asia/Colombo",
+      "population": 99135
+    }
+  ]
+}

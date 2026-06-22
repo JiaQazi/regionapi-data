@@ -1,0 +1,142 @@
+{
+  "country": "Afghanistan",
+  "country_code": "AF",
+  "year": 2025,
+  "timezone": "Asia/Kabul",
+  "last_updated": "2026-06-22",
+  "total_holidays": 12,
+  "holidays": [
+    {
+      "id": 1,
+      "name": "New Year's Day",
+      "local_name": "Nawroz",
+      "date": "2025-01-01",
+      "day": "Wednesday",
+      "month": "January",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 2,
+      "name": "Afghan New Year (Nowruz)",
+      "local_name": "Nawroz",
+      "date": "2025-03-21",
+      "day": "Friday",
+      "month": "March",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 3,
+      "name": "Eid ul Fitr",
+      "local_name": "Eid ul Fitr",
+      "date": "2025-03-30",
+      "day": "Sunday",
+      "month": "March",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 4,
+      "name": "Eid ul Fitr Holiday",
+      "local_name": "Eid ul Fitr",
+      "date": "2025-03-31",
+      "day": "Monday",
+      "month": "March",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 5,
+      "name": "Eid ul Fitr Holiday",
+      "local_name": "Eid ul Fitr",
+      "date": "2025-04-01",
+      "day": "Tuesday",
+      "month": "April",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 6,
+      "name": "Mujahideen Victory Day",
+      "local_name": "Roze Fath-e-Mujahideen",
+      "date": "2025-04-28",
+      "day": "Monday",
+      "month": "April",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 7,
+      "name": "Labour Day",
+      "local_name": "Roze Kargaran",
+      "date": "2025-05-01",
+      "day": "Thursday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 8,
+      "name": "Eid ul Adha",
+      "local_name": "Eid ul Adha",
+      "date": "2025-06-06",
+      "day": "Friday",
+      "month": "June",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 9,
+      "name": "Eid ul Adha Holiday",
+      "local_name": "Eid ul Adha",
+      "date": "2025-06-07",
+      "day": "Saturday",
+      "month": "June",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 10,
+      "name": "Eid ul Adha Holiday",
+      "local_name": "Eid ul Adha",
+      "date": "2025-06-08",
+      "day": "Sunday",
+      "month": "June",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 11,
+      "name": "Ashura",
+      "local_name": "Ashura",
+      "date": "2025-07-06",
+      "day": "Sunday",
+      "month": "July",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 12,
+      "name": "Prophet's Birthday",
+      "local_name": "Eid Milad un Nabi",
+      "date": "2025-09-05",
+      "day": "Friday",
+      "month": "September",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+    "country":  "Pakistan",
+    "country_code":  "PK",
+    "year":  2025,
+    "timezone":  "Asia/Karachi",
+    "last_updated":  "2026-06-17",
+    "total_holidays":  15,
+    "holidays":  [
+                     {
+                         "id":  1,
+                         "name":  "Kashmir Day",
+                         "local_name":  "Kashmir Day",
+                         "date":  "2025-02-05",
+                         "day":  "Wednesday",
+                         "month":  "February",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  2,
+                         "name":  "Pakistan Day",
+                         "local_name":  "Pakistan Day",
+                         "date":  "2025-03-23",
+                         "day":  "Sunday",
+                         "month":  "March",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  3,
+                         "name":  "Eid ul Fitr Holiday",
+                         "local_name":  "Eid ul Fitr",
+                         "date":  "2025-03-31",
+                         "day":  "Monday",
+                         "month":  "March",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  4,
+                         "name":  "Eid ul Fitr Holiday",
+                         "local_name":  "Eid ul Fitr",
+                         "date":  "2025-04-01",
+                         "day":  "Tuesday",
+                         "month":  "April",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  5,
+                         "name":  "Eid ul Fitr Holiday",
+                         "local_name":  "Eid ul Fitr",
+                         "date":  "2025-04-02",
+                         "day":  "Wednesday",
+                         "month":  "April",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  6,
+                         "name":  "Labour Day",
+                         "local_name":  "Youm-e-Mazdoor",
+                         "date":  "2025-05-01",
+                         "day":  "Thursday",
+                         "month":  "May",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  7,
+                         "name":  "Eid ul Adha Holiday",
+                         "local_name":  "Eid ul Adha",
+                         "date":  "2025-06-07",
+                         "day":  "Saturday",
+                         "month":  "June",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  8,
+                         "name":  "Eid ul Adha Holiday",
+                         "local_name":  "Eid ul Adha",
+                         "date":  "2025-06-08",
+                         "day":  "Sunday",
+                         "month":  "June",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  9,
+                         "name":  "Eid ul Adha Holiday",
+                         "local_name":  "Eid ul Adha",
+                         "date":  "2025-06-09",
+                         "day":  "Monday",
+                         "month":  "June",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  10,
+                         "name":  "Ashura (9th Muharram)",
+                         "local_name":  "Youm-e-Ashura",
+                         "date":  "2025-07-05",
+                         "day":  "Saturday",
+                         "month":  "July",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  11,
+                         "name":  "Ashura (10th Muharram)",
+                         "local_name":  "Youm-e-Ashura",
+                         "date":  "2025-07-06",
+                         "day":  "Sunday",
+                         "month":  "July",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  12,
+                         "name":  "Independence Day",
+                         "local_name":  "Independence Day",
+                         "date":  "2025-08-14",
+                         "day":  "Thursday",
+                         "month":  "August",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  13,
+                         "name":  "Eid Milad un Nabi",
+                         "local_name":  "Eid Milad un Nabi",
+                         "date":  "2025-09-05",
+                         "day":  "Friday",
+                         "month":  "September",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  14,
+                         "name":  "Quaid-e-Azam Day",
+                         "local_name":  "Quaid-e-Azam Day",
+                         "date":  "2025-12-25",
+                         "day":  "Thursday",
+                         "month":  "December",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  15,
+                         "name":  "Iqbal Day",
+                         "local_name":  "Iqbal Day",
+                         "date":  "2025-11-09",
+                         "day":  "Sunday",
+                         "month":  "November",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     }
+                 ]
+}

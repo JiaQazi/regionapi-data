@@ -1,0 +1,79 @@
+{
+  "country": "Bhutan",
+  "country_code": "BT",
+  "last_updated": "2026-06-22",
+  "banks": [
+    {
+      "id": 1,
+      "name": "Royal Monetary Authority of Bhutan",
+      "short_name": "RMA",
+      "swift_code": "RMABBTBT",
+      "type": "central",
+      "category": "state-owned",
+      "headquarters": "Thimphu",
+      "website": "https://www.rma.org.bt",
+      "founded": 1982,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Bank of Bhutan",
+      "short_name": "BOB",
+      "swift_code": "BOBBBTBT",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Thimphu",
+      "website": "https://www.bob.bt",
+      "founded": 1968,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Bhutan National Bank",
+      "short_name": "BNB",
+      "swift_code": "BHUTBTBT",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Thimphu",
+      "website": "https://www.bnb.bt",
+      "founded": 1997,
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Druk PNB Bank",
+      "short_name": "DPNB",
+      "swift_code": "DRUKBTBT",
+      "type": "commercial",
+      "category": "foreign",
+      "headquarters": "Thimphu",
+      "website": "https://www.drukpnbbank.bt",
+      "founded": 2010,
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "T Bank",
+      "short_name": "TBank",
+      "swift_code": "TBANKBTT",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Thimphu",
+      "website": "https://www.tbank.bt",
+      "founded": 2010,
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Bhutan Development Bank",
+      "short_name": "BDB",
+      "swift_code": "BDBLBTBT",
+      "type": "development",
+      "category": "state-owned",
+      "headquarters": "Thimphu",
+      "website": "https://www.bdb.bt",
+      "founded": 1988,
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+    "country":  "Pakistan",
+    "country_code":  "PK",
+    "year":  2026,
+    "timezone":  "Asia/Karachi",
+    "last_updated":  "2026-06-17",
+    "total_holidays":  15,
+    "holidays":  [
+                     {
+                         "id":  1,
+                         "name":  "Kashmir Day",
+                         "local_name":  "Kashmir Day",
+                         "date":  "2026-02-05",
+                         "day":  "Thursday",
+                         "month":  "February",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  2,
+                         "name":  "Pakistan Day",
+                         "local_name":  "Pakistan Day",
+                         "date":  "2026-03-23",
+                         "day":  "Monday",
+                         "month":  "March",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  3,
+                         "name":  "Eid ul Fitr Holiday",
+                         "local_name":  "Eid ul Fitr",
+                         "date":  "2026-03-20",
+                         "day":  "Friday",
+                         "month":  "March",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  true,
+                         "notes":  "Subject to moon sighting"
+                     },
+                     {
+                         "id":  4,
+                         "name":  "Eid ul Fitr Holiday",
+                         "local_name":  "Eid ul Fitr",
+                         "date":  "2026-03-21",
+                         "day":  "Saturday",
+                         "month":  "March",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  true,
+                         "notes":  "Subject to moon sighting"
+                     },
+                     {
+                         "id":  5,
+                         "name":  "Eid ul Fitr Holiday",
+                         "local_name":  "Eid ul Fitr",
+                         "date":  "2026-03-22",
+                         "day":  "Sunday",
+                         "month":  "March",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  true,
+                         "notes":  "Subject to moon sighting"
+                     },
+                     {
+                         "id":  6,
+                         "name":  "Labour Day",
+                         "local_name":  "Youm-e-Mazdoor",
+                         "date":  "2026-05-01",
+                         "day":  "Friday",
+                         "month":  "May",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  7,
+                         "name":  "Eid ul Adha Holiday",
+                         "local_name":  "Eid ul Adha",
+                         "date":  "2026-05-27",
+                         "day":  "Wednesday",
+                         "month":  "May",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  true,
+                         "notes":  "Subject to moon sighting"
+                     },
+                     {
+                         "id":  8,
+                         "name":  "Eid ul Adha Holiday",
+                         "local_name":  "Eid ul Adha",
+                         "date":  "2026-05-28",
+                         "day":  "Thursday",
+                         "month":  "May",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  true,
+                         "notes":  "Subject to moon sighting"
+                     },
+                     {
+                         "id":  9,
+                         "name":  "Eid ul Adha Holiday",
+                         "local_name":  "Eid ul Adha",
+                         "date":  "2026-05-29",
+                         "day":  "Friday",
+                         "month":  "May",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  true,
+                         "notes":  "Subject to moon sighting"
+                     },
+                     {
+                         "id":  10,
+                         "name":  "Ashura (9th Muharram)",
+                         "local_name":  "Youm-e-Ashura",
+                         "date":  "2026-06-25",
+                         "day":  "Thursday",
+                         "month":  "June",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  true,
+                         "notes":  "Subject to moon sighting"
+                     },
+                     {
+                         "id":  11,
+                         "name":  "Ashura (10th Muharram)",
+                         "local_name":  "Youm-e-Ashura",
+                         "date":  "2026-06-26",
+                         "day":  "Friday",
+                         "month":  "June",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  true,
+                         "notes":  "Subject to moon sighting"
+                     },
+                     {
+                         "id":  12,
+                         "name":  "Independence Day",
+                         "local_name":  "Independence Day",
+                         "date":  "2026-08-14",
+                         "day":  "Friday",
+                         "month":  "August",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  13,
+                         "name":  "Eid Milad un Nabi",
+                         "local_name":  "Eid Milad un Nabi",
+                         "date":  "2026-08-26",
+                         "day":  "Wednesday",
+                         "month":  "August",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  true,
+                         "notes":  "Subject to moon sighting"
+                     },
+                     {
+                         "id":  14,
+                         "name":  "Quaid-e-Azam Day",
+                         "local_name":  "Quaid-e-Azam Day",
+                         "date":  "2026-12-25",
+                         "day":  "Friday",
+                         "month":  "December",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     },
+                     {
+                         "id":  15,
+                         "name":  "Iqbal Day",
+                         "local_name":  "Iqbal Day",
+                         "date":  "2026-11-09",
+                         "day":  "Monday",
+                         "month":  "November",
+                         "type":  "Public",
+                         "regions":  [
+                                         "National"
+                                     ],
+                         "tentative":  false
+                     }
+                 ]
+}

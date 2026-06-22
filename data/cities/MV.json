@@ -1,0 +1,17 @@
+{
+  "country": "Maldives",
+  "country_code": "MV",
+  "last_updated": "2026-06-17",
+  "cities": [
+    { "id": 1, "name": "Malé", "atoll": "Kaafu Atoll", "atoll_code": "1", "capital": true, "atoll_capital": true, "latitude": 4.1755, "longitude": 73.5093, "timezone": "Indian/Maldives", "population": 177592 },
+    { "id": 2, "name": "Addu City", "atoll": "Seenu", "atoll_code": "2", "capital": false, "atoll_capital": true, "latitude": 0.5870, "longitude": 73.4832, "timezone": "Indian/Maldives", "population": 30306 },
+    { "id": 3, "name": "Fuvahmulah", "atoll": "Gnaviyani", "atoll_code": "3", "capital": false, "atoll_capital": true, "latitude": 0.2987, "longitude": 73.4161, "timezone": "Indian/Maldives", "population": 12500 },
+    { "id": 4, "name": "Kulhudhuffushi", "atoll": "Haa Dhaalu", "atoll_code": "4", "capital": false, "atoll_capital": true, "latitude": 6.6194, "longitude": 73.1369, "timezone": "Indian/Maldives", "population": 12542 },
+    { "id": 5, "name": "Thinadhoo", "atoll": "Gaafu Dhaalu", "atoll_code": "5", "capital": false, "atoll_capital": true, "latitude": -0.2225, "longitude": 73.6061, "timezone": "Indian/Maldives", "population": 7089 },
+    { "id": 6, "name": "Hithadhoo", "atoll": "Seenu", "atoll_code": "2", "capital": false, "atoll_capital": false, "latitude": 0.6027, "longitude": 73.7084, "timezone": "Indian/Maldives", "population": 2500 },
+    { "id": 7, "name": "Naifaru", "atoll": "Lhaviyani", "atoll_code": "6", "capital": false, "atoll_capital": true, "latitude": 5.4442, "longitude": 73.3903, "timezone": "Indian/Maldives", "population": 5000 },
+    { "id": 8, "name": "Eydhafushi", "atoll": "Haa Alif", "atoll_code": "7", "capital": false, "atoll_capital": true, "latitude": 6.9694, "longitude": 73.0611, "timezone": "Indian/Maldives", "population": 3500 },
+    { "id": 9, "name": "Mahibadhoo", "atoll": "Alif Dhaal", "atoll_code": "8", "capital": false, "atoll_capital": true, "latitude": 4.3000, "longitude": 72.9667, "timezone": "Indian/Maldives", "population": 2800 },
+    { "id": 10, "name": "Felidhoo", "atoll": "Meemu Atoll", "atoll_code": "9", "capital": false, "atoll_capital": true, "latitude": 3.7833, "longitude": 72.9833, "timezone": "Indian/Maldives", "population": 2400 }
+  ]
+}

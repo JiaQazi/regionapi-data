@@ -1,0 +1,39 @@
+{
+  "country": "Maldives",
+  "country_code": "MV",
+  "last_updated": "2026-06-17",
+  "operators": [
+    {
+      "id": 1,
+      "name": "Dhiraagu",
+      "formerly_known_as": null,
+      "type": "mobile",
+      "technology": ["2G", "3G", "4G"],
+      "mcc": "472",
+      "mnc": "02",
+      "prefixes": ["7600", "7610", "7620", "7630"],
+      "headquarters": "Malé",
+      "website": "https://www.dhiraagu.com.mv",
+      "founded": 1989,
+      "active": true,
+      "market_share_percent": 50.2,
+      "wallet": "dhiraagu eWallet"
+    },
+    {
+      "id": 2,
+      "name": "Ooredoo",
+      "formerly_known_as": "Wataniya",
+      "type": "mobile",
+      "technology": ["2G", "3G", "4G"],
+      "mcc": "472",
+      "mnc": "01",
+      "prefixes": ["7700", "7710", "7720", "7730"],
+      "headquarters": "Malé",
+      "website": "https://www.ooredoo.mv",
+      "founded": 2010,
+      "active": true,
+      "market_share_percent": 49.8,
+      "wallet": null
+    }
+  ]
+}

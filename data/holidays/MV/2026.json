@@ -1,0 +1,153 @@
+{
+  "country": "Maldives",
+  "country_code": "MV",
+  "year": 2026,
+  "timezone": "Indian/Maldives",
+  "last_updated": "2026-06-22",
+  "total_holidays": 13,
+  "holidays": [
+    {
+      "id": 1,
+      "name": "New Year's Day",
+      "local_name": "New Year's Day",
+      "date": "2026-01-01",
+      "day": "Thursday",
+      "month": "January",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 2,
+      "name": "Beginning of Ramadan",
+      "local_name": "Ramadan",
+      "date": "2026-02-18",
+      "day": "Wednesday",
+      "month": "February",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 3,
+      "name": "Eid ul Fitr",
+      "local_name": "Eid ul Fitr",
+      "date": "2026-03-20",
+      "day": "Friday",
+      "month": "March",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 4,
+      "name": "Eid ul Fitr Holiday",
+      "local_name": "Eid ul Fitr",
+      "date": "2026-03-21",
+      "day": "Saturday",
+      "month": "March",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 5,
+      "name": "Eid ul Fitr Holiday",
+      "local_name": "Eid ul Fitr",
+      "date": "2026-03-22",
+      "day": "Sunday",
+      "month": "March",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 6,
+      "name": "National Day",
+      "local_name": "Qaumee Dhuvas",
+      "date": "2026-06-01",
+      "day": "Monday",
+      "month": "June",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 7,
+      "name": "Eid ul Adha",
+      "local_name": "Eid ul Adha",
+      "date": "2026-05-27",
+      "day": "Wednesday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 8,
+      "name": "Eid ul Adha Holiday",
+      "local_name": "Eid ul Adha",
+      "date": "2026-05-28",
+      "day": "Thursday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 9,
+      "name": "Eid ul Adha Holiday",
+      "local_name": "Eid ul Adha",
+      "date": "2026-05-29",
+      "day": "Friday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 10,
+      "name": "Independence Day",
+      "local_name": "Isthiqlaal Dhuvas",
+      "date": "2026-07-26",
+      "day": "Sunday",
+      "month": "July",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 11,
+      "name": "Prophet's Birthday",
+      "local_name": "Mauloodh Dhuvas",
+      "date": "2026-08-25",
+      "day": "Tuesday",
+      "month": "August",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 12,
+      "name": "Republic Day",
+      "local_name": "Jamhooree Dhuvas",
+      "date": "2026-11-11",
+      "day": "Wednesday",
+      "month": "November",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 13,
+      "name": "Christmas Day",
+      "local_name": "Christmas",
+      "date": "2026-12-25",
+      "day": "Friday",
+      "month": "December",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    }
+  ]
+}

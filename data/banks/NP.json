@@ -1,0 +1,127 @@
+{
+  "country": "Nepal",
+  "country_code": "NP",
+  "last_updated": "2026-06-22",
+  "banks": [
+    {
+      "id": 1,
+      "name": "Nepal Rastra Bank",
+      "short_name": "NRB",
+      "swift_code": "NARBNPKA",
+      "type": "central",
+      "category": "state-owned",
+      "headquarters": "Kathmandu",
+      "website": "https://www.nrb.org.np",
+      "founded": 1956,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Nabil Bank",
+      "short_name": "Nabil",
+      "swift_code": "NARBNPKA",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kathmandu",
+      "website": "https://www.nabilbank.com",
+      "founded": 1984,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Nepal Investment Mega Bank",
+      "short_name": "NIMB",
+      "swift_code": "NIBLNPKT",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kathmandu",
+      "website": "https://www.nimb.com.np",
+      "founded": 1986,
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Global IME Bank",
+      "short_name": "Global IME",
+      "swift_code": "GLBBNPKA",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kathmandu",
+      "website": "https://www.globalimebank.com",
+      "founded": 2007,
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Himalayan Bank",
+      "short_name": "HBL Nepal",
+      "swift_code": "HBLNNPKA",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kathmandu",
+      "website": "https://www.himalayanbank.com",
+      "founded": 1993,
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Nepal SBI Bank",
+      "short_name": "NSBL",
+      "swift_code": "NSBINPKA",
+      "type": "commercial",
+      "category": "foreign",
+      "headquarters": "Kathmandu",
+      "website": "https://www.nepalsbi.com.np",
+      "founded": 1993,
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "NIC Asia Bank",
+      "short_name": "NIC Asia",
+      "swift_code": "NICENPKA",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kathmandu",
+      "website": "https://www.nicasiabank.com",
+      "founded": 1998,
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Prabhu Bank",
+      "short_name": "Prabhu",
+      "swift_code": "PRVUNPKA",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kathmandu",
+      "website": "https://www.prabhubank.com",
+      "founded": 2001,
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Rastriya Banijya Bank",
+      "short_name": "RBB",
+      "swift_code": "RBBANPKA",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Kathmandu",
+      "website": "https://www.rbb.com.np",
+      "founded": 1966,
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "Agricultural Development Bank",
+      "short_name": "ADBL",
+      "swift_code": "ADBLNPKA",
+      "type": "development",
+      "category": "state-owned",
+      "headquarters": "Kathmandu",
+      "website": "https://www.adbl.gov.np",
+      "founded": 1968,
+      "active": true
+    }
+  ]
+}

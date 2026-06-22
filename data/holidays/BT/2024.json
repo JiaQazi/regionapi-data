@@ -1,0 +1,153 @@
+{
+  "country": "Bhutan",
+  "country_code": "BT",
+  "year": 2024,
+  "timezone": "Asia/Thimphu",
+  "last_updated": "2026-06-22",
+  "total_holidays": 13,
+  "holidays": [
+    {
+      "id": 1,
+      "name": "New Year's Day",
+      "local_name": "Losar",
+      "date": "2024-01-01",
+      "day": "Monday",
+      "month": "January",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 2,
+      "name": "Lunar New Year (Losar)",
+      "local_name": "Losar",
+      "date": "2024-02-10",
+      "day": "Saturday",
+      "month": "February",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 3,
+      "name": "Zhabdrung Kuchoe",
+      "local_name": "Zhabdrung Kuchoe",
+      "date": "2024-04-24",
+      "day": "Wednesday",
+      "month": "April",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 4,
+      "name": "Buddha's Parinirvana (Duechen Zhi)",
+      "local_name": "Duechen Zhi",
+      "date": "2024-04-29",
+      "day": "Monday",
+      "month": "April",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 5,
+      "name": "Labour Day",
+      "local_name": "Labour Day",
+      "date": "2024-05-01",
+      "day": "Wednesday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 6,
+      "name": "Buddha Purnima",
+      "local_name": "Buddha Purnima",
+      "date": "2024-05-23",
+      "day": "Thursday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 7,
+      "name": "Death Anniversary of Zhabdrung",
+      "local_name": "Zhabdrung Kuchoe",
+      "date": "2024-06-04",
+      "day": "Tuesday",
+      "month": "June",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 8,
+      "name": "First Sermon of Lord Buddha",
+      "local_name": "Chhoekor Duechen",
+      "date": "2024-07-21",
+      "day": "Sunday",
+      "month": "July",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 9,
+      "name": "Blessed Rainy Day",
+      "local_name": "Thrue Bab",
+      "date": "2024-09-01",
+      "day": "Sunday",
+      "month": "September",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 10,
+      "name": "Dashain",
+      "local_name": "Dashain",
+      "date": "2024-10-12",
+      "day": "Saturday",
+      "month": "October",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 11,
+      "name": "National Day",
+      "local_name": "Gyalpo Losar",
+      "date": "2024-12-17",
+      "day": "Tuesday",
+      "month": "December",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 12,
+      "name": "Winter Solstice",
+      "local_name": "Nyilo",
+      "date": "2024-12-21",
+      "day": "Saturday",
+      "month": "December",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 13,
+      "name": "Christmas Day",
+      "local_name": "Christmas",
+      "date": "2024-12-25",
+      "day": "Wednesday",
+      "month": "December",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    }
+  ]
+}

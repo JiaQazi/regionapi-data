@@ -1,0 +1,127 @@
+{
+  "country": "Afghanistan",
+  "country_code": "AF",
+  "last_updated": "2026-06-22",
+  "banks": [
+    {
+      "id": 1,
+      "name": "Da Afghanistan Bank",
+      "short_name": "DAB",
+      "swift_code": "DAABAFKA",
+      "type": "central",
+      "category": "state-owned",
+      "headquarters": "Kabul",
+      "website": "https://www.centralbank.gov.af",
+      "founded": 1939,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Afghanistan International Bank",
+      "short_name": "AIB",
+      "swift_code": "AFIBAFKA",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kabul",
+      "website": "https://www.aib.af",
+      "founded": 2004,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Azizi Bank",
+      "short_name": "AZB",
+      "swift_code": "AZIZAFKA",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kabul",
+      "website": "https://www.azizibank.af",
+      "founded": 2006,
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Bank-e-Millie Afghan",
+      "short_name": "BMA",
+      "swift_code": "BMAFAFKA",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Kabul",
+      "website": "https://www.bma.com.af",
+      "founded": 1933,
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Pashtany Bank",
+      "short_name": "PTB",
+      "swift_code": "PASHAFKA",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Kabul",
+      "website": "https://www.pashtanybank.af",
+      "founded": 1954,
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "New Kabul Bank",
+      "short_name": "NKB",
+      "swift_code": "NKBKAFKA",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Kabul",
+      "website": "https://www.newkabulbank.af",
+      "founded": 2011,
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Ghazanfar Bank",
+      "short_name": "GB",
+      "swift_code": "GHAZAFKA",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kabul",
+      "website": "https://www.ghazanfarbank.com",
+      "founded": 2009,
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Maiwand Bank",
+      "short_name": "MWB",
+      "swift_code": "MAIWAFKA",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Kabul",
+      "website": "https://www.maiwandbank.af",
+      "founded": 2009,
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Islamic Bank of Afghanistan",
+      "short_name": "IBA",
+      "swift_code": "IBANAFKA",
+      "type": "islamic",
+      "category": "private",
+      "headquarters": "Kabul",
+      "website": "https://www.ibafg.com",
+      "founded": 2004,
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "First MicroFinanceBank Afghanistan",
+      "short_name": "FMFB",
+      "swift_code": "FMFBAFKA",
+      "type": "microfinance",
+      "category": "private",
+      "headquarters": "Kabul",
+      "website": "https://www.fmfb.com.af",
+      "founded": 2004,
+      "active": true
+    }
+  ]
+}

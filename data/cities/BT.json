@@ -1,0 +1,17 @@
+{
+  "country": "Bhutan",
+  "country_code": "BT",
+  "last_updated": "2026-06-17",
+  "cities": [
+    { "id": 1, "name": "Thimphu", "district": "Thimphu", "district_code": "1", "capital": true, "district_capital": true, "latitude": 27.5142, "longitude": 89.6433, "timezone": "Asia/Thimphu", "population": 103093 },
+    { "id": 2, "name": "Phuentsholing", "district": "Paro", "district_code": "2", "capital": false, "district_capital": false, "latitude": 27.0483, "longitude": 89.3879, "timezone": "Asia/Thimphu", "population": 25650 },
+    { "id": 3, "name": "Paro", "district": "Paro", "district_code": "2", "capital": false, "district_capital": true, "latitude": 27.4167, "longitude": 89.4167, "timezone": "Asia/Thimphu", "population": 35210 },
+    { "id": 4, "name": "Punakha", "district": "Punakha", "district_code": "3", "capital": false, "district_capital": true, "latitude": 27.6165, "longitude": 89.2525, "timezone": "Asia/Thimphu", "population": 22000 },
+    { "id": 5, "name": "Wangdue Phodrang", "district": "Wangdue Phodrang", "district_code": "4", "capital": false, "district_capital": true, "latitude": 27.6533, "longitude": 89.9167, "timezone": "Asia/Thimphu", "population": 19500 },
+    { "id": 6, "name": "Gelephu", "district": "Zhemgang", "district_code": "5", "capital": false, "district_capital": false, "latitude": 27.2333, "longitude": 90.4833, "timezone": "Asia/Thimphu", "population": 7500 },
+    { "id": 7, "name": "Samdrup Jongkhar", "district": "Samdrup Jongkhar", "district_code": "6", "capital": false, "district_capital": true, "latitude": 27.8333, "longitude": 91.5333, "timezone": "Asia/Thimphu", "population": 8200 },
+    { "id": 8, "name": "Trashigang", "district": "Trashigang", "district_code": "7", "capital": false, "district_capital": true, "latitude": 27.3667, "longitude": 91.9333, "timezone": "Asia/Thimphu", "population": 19800 },
+    { "id": 9, "name": "Trongsa", "district": "Trongsa", "district_code": "8", "capital": false, "district_capital": true, "latitude": 27.3667, "longitude": 90.4833, "timezone": "Asia/Thimphu", "population": 13600 },
+    { "id": 10, "name": "Mongar", "district": "Mongar", "district_code": "9", "capital": false, "district_capital": true, "latitude": 27.2833, "longitude": 91.2, "timezone": "Asia/Thimphu", "population": 12300 }
+  ]
+}

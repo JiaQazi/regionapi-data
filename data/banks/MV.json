@@ -1,0 +1,79 @@
+{
+  "country": "Maldives",
+  "country_code": "MV",
+  "last_updated": "2026-06-22",
+  "banks": [
+    {
+      "id": 1,
+      "name": "Maldives Monetary Authority",
+      "short_name": "MMA",
+      "swift_code": "MMAAMVMM",
+      "type": "central",
+      "category": "state-owned",
+      "headquarters": "Male",
+      "website": "https://www.mma.gov.mv",
+      "founded": 1981,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Bank of Maldives",
+      "short_name": "BML",
+      "swift_code": "MALBMVMV",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Male",
+      "website": "https://www.bankofmaldives.com.mv",
+      "founded": 1982,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "State Bank of India Maldives",
+      "short_name": "SBI Maldives",
+      "swift_code": "SBINMVMM",
+      "type": "commercial",
+      "category": "foreign",
+      "headquarters": "Male",
+      "website": "https://www.statebankofindia.com",
+      "founded": 1974,
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Habib Bank AG Zurich Maldives",
+      "short_name": "HBL Maldives",
+      "swift_code": "HBZUMVMM",
+      "type": "commercial",
+      "category": "foreign",
+      "headquarters": "Male",
+      "website": "https://www.habibbank.com",
+      "founded": 1974,
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Maldives Islamic Bank",
+      "short_name": "MIB",
+      "swift_code": "MIBLMVMM",
+      "type": "islamic",
+      "category": "state-owned",
+      "headquarters": "Male",
+      "website": "https://www.mib.com.mv",
+      "founded": 2011,
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "The Mauritius Commercial Bank Maldives",
+      "short_name": "MCB Maldives",
+      "swift_code": "MCBLMVMM",
+      "type": "commercial",
+      "category": "foreign",
+      "headquarters": "Male",
+      "website": "https://www.mcb.mu",
+      "founded": 2008,
+      "active": true
+    }
+  ]
+}

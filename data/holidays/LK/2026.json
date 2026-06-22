@@ -1,0 +1,208 @@
+{
+  "country": "Sri Lanka",
+  "country_code": "LK",
+  "year": 2026,
+  "timezone": "Asia/Colombo",
+  "last_updated": "2026-06-22",
+  "total_holidays": 18,
+  "holidays": [
+    {
+      "id": 1,
+      "name": "New Year's Day",
+      "local_name": "New Year's Day",
+      "date": "2026-01-01",
+      "day": "Thursday",
+      "month": "January",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 2,
+      "name": "Tamil Thai Pongal Day",
+      "local_name": "Thai Pongal",
+      "date": "2026-01-14",
+      "day": "Wednesday",
+      "month": "January",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 3,
+      "name": "National Day",
+      "local_name": "Nidahas Diwasa",
+      "date": "2026-02-04",
+      "day": "Wednesday",
+      "month": "February",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 4,
+      "name": "Maha Shivaratri",
+      "local_name": "Maha Shivaratri",
+      "date": "2026-02-15",
+      "day": "Sunday",
+      "month": "February",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 5,
+      "name": "Eid ul Fitr",
+      "local_name": "Eid ul Fitr",
+      "date": "2026-03-20",
+      "day": "Friday",
+      "month": "March",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 6,
+      "name": "Good Friday",
+      "local_name": "Good Friday",
+      "date": "2026-04-03",
+      "day": "Friday",
+      "month": "April",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 7,
+      "name": "Sinhala and Tamil New Year",
+      "local_name": "Sinhala Aluth Avurudda",
+      "date": "2026-04-13",
+      "day": "Monday",
+      "month": "April",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 8,
+      "name": "Sinhala and Tamil New Year Holiday",
+      "local_name": "Sinhala Aluth Avurudda",
+      "date": "2026-04-14",
+      "day": "Tuesday",
+      "month": "April",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 9,
+      "name": "Labour Day",
+      "local_name": "Labour Day",
+      "date": "2026-05-01",
+      "day": "Friday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 10,
+      "name": "Vesak Full Moon Poya Day",
+      "local_name": "Vesak Poya",
+      "date": "2026-05-31",
+      "day": "Sunday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 11,
+      "name": "Poson Full Moon Poya Day",
+      "local_name": "Poson Poya",
+      "date": "2026-06-30",
+      "day": "Tuesday",
+      "month": "June",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 12,
+      "name": "Eid ul Adha",
+      "local_name": "Eid ul Adha",
+      "date": "2026-05-27",
+      "day": "Wednesday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 13,
+      "name": "Esala Full Moon Poya Day",
+      "local_name": "Esala Poya",
+      "date": "2026-07-29",
+      "day": "Wednesday",
+      "month": "July",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 14,
+      "name": "Nikini Full Moon Poya Day",
+      "local_name": "Nikini Poya",
+      "date": "2026-08-28",
+      "day": "Friday",
+      "month": "August",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 15,
+      "name": "Prophet's Birthday",
+      "local_name": "Milad un Nabi",
+      "date": "2026-08-25",
+      "day": "Tuesday",
+      "month": "August",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 16,
+      "name": "Deepavali",
+      "local_name": "Deepavali",
+      "date": "2026-11-08",
+      "day": "Sunday",
+      "month": "November",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    },
+    {
+      "id": 17,
+      "name": "Christmas Day",
+      "local_name": "Christmas",
+      "date": "2026-12-25",
+      "day": "Friday",
+      "month": "December",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 18,
+      "name": "Unduvap Full Moon Poya Day",
+      "local_name": "Unduvap Poya",
+      "date": "2026-12-23",
+      "day": "Wednesday",
+      "month": "December",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": true
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "country": "Bangladesh",
+  "country_code": "BD",
+  "last_updated": "2026-06-22",
+  "banks": [
+    {
+      "id": 1,
+      "name": "Bangladesh Bank",
+      "short_name": "BB",
+      "swift_code": "BAGLBDDH",
+      "type": "central",
+      "category": "state-owned",
+      "headquarters": "Dhaka",
+      "website": "https://www.bb.org.bd",
+      "founded": 1972,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Sonali Bank PLC",
+      "short_name": "SBL",
+      "swift_code": "BSONBDDH",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Dhaka",
+      "website": "https://www.sonalibank.com.bd",
+      "founded": 1972,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Janata Bank PLC",
+      "short_name": "JBL",
+      "swift_code": "JANBBDDH",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Dhaka",
+      "website": "https://www.janatabank-bd.com",
+      "founded": 1972,
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Agrani Bank PLC",
+      "short_name": "ABL",
+      "swift_code": "AGBKBDDH",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Dhaka",
+      "website": "https://www.agranibank.org",
+      "founded": 1972,
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Rupali Bank PLC",
+      "short_name": "RBL",
+      "swift_code": "RUPBBDDH",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Dhaka",
+      "website": "https://www.rupalibank.org",
+      "founded": 1972,
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "BRAC Bank PLC",
+      "short_name": "BRAC",
+      "swift_code": "BRAKBDDH",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Dhaka",
+      "website": "https://www.bracbank.com",
+      "founded": 2001,
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Dutch-Bangla Bank PLC",
+      "short_name": "DBBL",
+      "swift_code": "DBBLBDDH",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Dhaka",
+      "website": "https://www.dutchbanglabank.com",
+      "founded": 1995,
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Islami Bank Bangladesh PLC",
+      "short_name": "IBBL",
+      "swift_code": "IBBLBDDH",
+      "type": "islamic",
+      "category": "private",
+      "headquarters": "Dhaka",
+      "website": "https://www.islamibankbd.com",
+      "founded": 1983,
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Eastern Bank PLC",
+      "short_name": "EBL",
+      "swift_code": "EBLDBDDH",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Dhaka",
+      "website": "https://www.ebl.com.bd",
+      "founded": 1992,
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "The City Bank PLC",
+      "short_name": "City Bank",
+      "swift_code": "CIBLBDDH",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Dhaka",
+      "website": "https://www.thecitybank.com",
+      "founded": 1983,
+      "active": true
+    }
+  ]
+}

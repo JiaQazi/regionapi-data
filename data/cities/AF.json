@@ -1,0 +1,17 @@
+{
+  "country": "Afghanistan",
+  "country_code": "AF",
+  "last_updated": "2026-06-17",
+  "cities": [
+    { "id": 1, "name": "Kabul", "province": "Kabul", "province_code": "1", "capital": true, "provincial_capital": true, "latitude": 34.5265, "longitude": 69.2075, "timezone": "Asia/Kabul", "population": 3574000 },
+    { "id": 2, "name": "Kandahar", "province": "Kandahar", "province_code": "2", "capital": false, "provincial_capital": true, "latitude": 31.6257, "longitude": 65.7245, "timezone": "Asia/Kabul", "population": 468690 },
+    { "id": 3, "name": "Herat", "province": "Herat", "province_code": "3", "capital": false, "provincial_capital": true, "latitude": 34.3425, "longitude": 62.1981, "timezone": "Asia/Kabul", "population": 496500 },
+    { "id": 4, "name": "Mazar-i-Sharif", "province": "Balkh", "province_code": "4", "capital": false, "provincial_capital": true, "latitude": 36.7597, "longitude": 67.1582, "timezone": "Asia/Kabul", "population": 305403 },
+    { "id": 5, "name": "Jalalabad", "province": "Nangarhar", "province_code": "5", "capital": false, "provincial_capital": true, "latitude": 34.4297, "longitude": 70.4580, "timezone": "Asia/Kabul", "population": 237000 },
+    { "id": 6, "name": "Kunduz", "province": "Kunduz", "province_code": "6", "capital": false, "provincial_capital": true, "latitude": 36.7317, "longitude": 68.8684, "timezone": "Asia/Kabul", "population": 161080 },
+    { "id": 7, "name": "Ghazni", "province": "Ghazni", "province_code": "7", "capital": false, "provincial_capital": true, "latitude": 33.5398, "longitude": 68.2161, "timezone": "Asia/Kabul", "population": 141000 },
+    { "id": 8, "name": "Khost", "province": "Khost", "province_code": "8", "capital": false, "provincial_capital": true, "latitude": 33.3398, "longitude": 69.9161, "timezone": "Asia/Kabul", "population": 175000 },
+    { "id": 9, "name": "Bamyan", "province": "Bamyan", "province_code": "9", "capital": false, "provincial_capital": true, "latitude": 34.8160, "longitude": 67.8306, "timezone": "Asia/Kabul", "population": 56800 },
+    { "id": 10, "name": "Lashkar Gah", "province": "Helmand", "province_code": "10", "capital": false, "provincial_capital": true, "latitude": 31.9454, "longitude": 64.3631, "timezone": "Asia/Kabul", "population": 201000 }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "Nepal",
+  "country_code": "NP",
+  "last_updated": "2026-06-17",
+  "cities": [
+    { "id": 1, "name": "Kathmandu", "province": "Bagmati Province", "province_code": "1", "capital": true, "provincial_capital": true, "latitude": 27.7172, "longitude": 85.3240, "timezone": "Asia/Kathmandu", "population": 1437151 },
+    { "id": 2, "name": "Pokhara", "province": "Gandaki Province", "province_code": "4", "capital": false, "provincial_capital": true, "latitude": 28.2096, "longitude": 83.9856, "timezone": "Asia/Kathmandu", "population": 367629 },
+    { "id": 3, "name": "Lalitpur", "province": "Bagmati Province", "province_code": "1", "capital": false, "provincial_capital": false, "latitude": 27.6408, "longitude": 85.3160, "timezone": "Asia/Kathmandu", "population": 228343 },
+    { "id": 4, "name": "Biratnagar", "province": "Koshi Province", "province_code": "3", "capital": false, "provincial_capital": true, "latitude": 26.4539, "longitude": 87.2709, "timezone": "Asia/Kathmandu", "population": 193431 },
+    { "id": 5, "name": "Birgunj", "province": "Madhesh Province", "province_code": "2", "capital": false, "provincial_capital": false, "latitude": 27.1771, "longitude": 84.8872, "timezone": "Asia/Kathmandu", "population": 156419 },
+    { "id": 6, "name": "Bharatpur", "province": "Bagmati Province", "province_code": "1", "capital": false, "provincial_capital": false, "latitude": 27.3070, "longitude": 85.2515, "timezone": "Asia/Kathmandu", "population": 118545 },
+    { "id": 7, "name": "Janakpur", "province": "Madhesh Province", "province_code": "2", "capital": false, "provincial_capital": false, "latitude": 26.9135, "longitude": 85.9260, "timezone": "Asia/Kathmandu", "population": 120430 },
+    { "id": 8, "name": "Butwal", "province": "Gandaki Province", "province_code": "4", "capital": false, "provincial_capital": false, "latitude": 27.8157, "longitude": 83.4609, "timezone": "Asia/Kathmandu", "population": 73203 },
+    { "id": 9, "name": "Dharan", "province": "Koshi Province", "province_code": "3", "capital": false, "provincial_capital": false, "latitude": 26.8099, "longitude": 87.2843, "timezone": "Asia/Kathmandu", "population": 107541 },
+    { "id": 10, "name": "Hetauda", "province": "Bagmati Province", "province_code": "1", "capital": false, "provincial_capital": false, "latitude": 27.4228, "longitude": 85.0328, "timezone": "Asia/Kathmandu", "population": 95500 }
+  ]
+}

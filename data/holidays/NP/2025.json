@@ -1,0 +1,164 @@
+{
+  "country": "Nepal",
+  "country_code": "NP",
+  "year": 2025,
+  "timezone": "Asia/Kathmandu",
+  "last_updated": "2026-06-22",
+  "total_holidays": 14,
+  "holidays": [
+    {
+      "id": 1,
+      "name": "Prithvi Jayanti",
+      "local_name": "Prithvi Jayanti",
+      "date": "2025-01-11",
+      "day": "Saturday",
+      "month": "January",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 2,
+      "name": "Martyrs' Day",
+      "local_name": "Shahid Diwas",
+      "date": "2025-01-29",
+      "day": "Wednesday",
+      "month": "January",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 3,
+      "name": "Democracy Day",
+      "local_name": "Prajatantra Diwas",
+      "date": "2025-02-18",
+      "day": "Tuesday",
+      "month": "February",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 4,
+      "name": "Maha Shivaratri",
+      "local_name": "Maha Shivaratri",
+      "date": "2025-02-26",
+      "day": "Wednesday",
+      "month": "February",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 5,
+      "name": "Fagu Purnima (Holi)",
+      "local_name": "Fagu Purnima",
+      "date": "2025-03-14",
+      "day": "Friday",
+      "month": "March",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 6,
+      "name": "Nepali New Year",
+      "local_name": "Navabarsha",
+      "date": "2025-04-14",
+      "day": "Monday",
+      "month": "April",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 7,
+      "name": "International Labour Day",
+      "local_name": "Antarrashtriya Shramik Diwas",
+      "date": "2025-05-01",
+      "day": "Thursday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 8,
+      "name": "Buddha Jayanti",
+      "local_name": "Buddha Jayanti",
+      "date": "2025-05-12",
+      "day": "Monday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 9,
+      "name": "Republic Day",
+      "local_name": "Ganatantra Diwas",
+      "date": "2025-05-28",
+      "day": "Wednesday",
+      "month": "May",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 10,
+      "name": "Constitution Day",
+      "local_name": "Sambidhan Diwas",
+      "date": "2025-09-19",
+      "day": "Friday",
+      "month": "September",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 11,
+      "name": "Dashain (Ghatasthapana)",
+      "local_name": "Dashain",
+      "date": "2025-09-22",
+      "day": "Monday",
+      "month": "September",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 12,
+      "name": "Dashain (Vijaya Dashami)",
+      "local_name": "Vijaya Dashami",
+      "date": "2025-10-01",
+      "day": "Wednesday",
+      "month": "October",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 13,
+      "name": "Tihar (Laxmi Puja)",
+      "local_name": "Tihar",
+      "date": "2025-10-20",
+      "day": "Monday",
+      "month": "October",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    },
+    {
+      "id": 14,
+      "name": "Christmas Day",
+      "local_name": "Christmas",
+      "date": "2025-12-25",
+      "day": "Thursday",
+      "month": "December",
+      "type": "Public",
+      "regions": ["National"],
+      "tentative": false
+    }
+  ]
+}

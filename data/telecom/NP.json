@@ -1,0 +1,55 @@
+{
+  "country": "Nepal",
+  "country_code": "NP",
+  "last_updated": "2026-06-17",
+  "operators": [
+    {
+      "id": 1,
+      "name": "Ncell",
+      "formerly_known_as": "Mero Mobile",
+      "type": "mobile",
+      "technology": ["2G", "3G", "4G"],
+      "mcc": "429",
+      "mnc": "01",
+      "prefixes": ["9801", "9806", "9807", "9808"],
+      "headquarters": "Kathmandu",
+      "website": "https://www.ncell.com.np",
+      "founded": 2004,
+      "active": true,
+      "market_share_percent": 42.1,
+      "wallet": "Ncell Money"
+    },
+    {
+      "id": 2,
+      "name": "NTC",
+      "formerly_known_as": "Nepal Telecom",
+      "type": "mobile",
+      "technology": ["2G", "3G", "4G"],
+      "mcc": "429",
+      "mnc": "02",
+      "prefixes": ["9841", "9802", "9803", "9804", "9805"],
+      "headquarters": "Kathmandu",
+      "website": "https://www.ntc.com.np",
+      "founded": 1975,
+      "active": true,
+      "market_share_percent": 38.6,
+      "wallet": "NTC Mobile Money"
+    },
+    {
+      "id": 3,
+      "name": "Smart Cell",
+      "formerly_known_as": null,
+      "type": "mobile",
+      "technology": ["2G", "3G", "4G"],
+      "mcc": "429",
+      "mnc": "04",
+      "prefixes": ["9818", "9819"],
+      "headquarters": "Kathmandu",
+      "website": "https://www.smartcell.com.np",
+      "founded": 2010,
+      "active": true,
+      "market_share_percent": 19.3,
+      "wallet": null
+    }
+  ]
+}

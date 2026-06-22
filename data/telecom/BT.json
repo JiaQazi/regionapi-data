@@ -1,0 +1,55 @@
+{
+  "country": "Bhutan",
+  "country_code": "BT",
+  "last_updated": "2026-06-17",
+  "operators": [
+    {
+      "id": 1,
+      "name": "Bhutan Kura",
+      "formerly_known_as": "Bhutan Mobile",
+      "type": "mobile",
+      "technology": ["2G", "3G", "4G"],
+      "mcc": "402",
+      "mnc": "77",
+      "prefixes": ["17", "18"],
+      "headquarters": "Thimphu",
+      "website": "https://www.kura.bt",
+      "founded": 2003,
+      "active": true,
+      "market_share_percent": 39.4,
+      "wallet": "Kura Wallet"
+    },
+    {
+      "id": 2,
+      "name": "Bhutan Telecom",
+      "formerly_known_as": "Bhutan Telecom Ltd",
+      "type": "mobile",
+      "technology": ["2G", "3G", "4G"],
+      "mcc": "402",
+      "mnc": "11",
+      "prefixes": ["19", "16"],
+      "headquarters": "Thimphu",
+      "website": "https://www.bt.bt",
+      "founded": 2008,
+      "active": true,
+      "market_share_percent": 34.6,
+      "wallet": "BT Wallet"
+    },
+    {
+      "id": 3,
+      "name": "TashiInfoComm",
+      "formerly_known_as": "Operator",
+      "type": "mobile",
+      "technology": ["2G", "3G"],
+      "mcc": "402",
+      "mnc": "33",
+      "prefixes": ["13"],
+      "headquarters": "Thimphu",
+      "website": "https://www.tic.bt",
+      "founded": 1999,
+      "active": true,
+      "market_share_percent": 26.0,
+      "wallet": null
+    }
+  ]
+}

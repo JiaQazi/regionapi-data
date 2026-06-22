@@ -1,0 +1,127 @@
+{
+  "country": "Sri Lanka",
+  "country_code": "LK",
+  "last_updated": "2026-06-22",
+  "banks": [
+    {
+      "id": 1,
+      "name": "Central Bank of Sri Lanka",
+      "short_name": "CBSL",
+      "swift_code": "CBRSLKLX",
+      "type": "central",
+      "category": "state-owned",
+      "headquarters": "Colombo",
+      "website": "https://www.cbsl.gov.lk",
+      "founded": 1950,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Bank of Ceylon",
+      "short_name": "BOC",
+      "swift_code": "BCEYLKLX",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Colombo",
+      "website": "https://www.boc.lk",
+      "founded": 1939,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "People's Bank",
+      "short_name": "PB",
+      "swift_code": "PSBKLKLX",
+      "type": "commercial",
+      "category": "state-owned",
+      "headquarters": "Colombo",
+      "website": "https://www.peoplesbank.lk",
+      "founded": 1961,
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Commercial Bank of Ceylon",
+      "short_name": "ComBank",
+      "swift_code": "CCEYLKLX",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Colombo",
+      "website": "https://www.combank.lk",
+      "founded": 1969,
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Sampath Bank",
+      "short_name": "Sampath",
+      "swift_code": "BSAMLKLX",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Colombo",
+      "website": "https://www.sampath.lk",
+      "founded": 1987,
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Hatton National Bank",
+      "short_name": "HNB",
+      "swift_code": "HBLILKLX",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Colombo",
+      "website": "https://www.hnb.net",
+      "founded": 1888,
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "National Development Bank",
+      "short_name": "NDB",
+      "swift_code": "NDBSLKLX",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Colombo",
+      "website": "https://www.ndbbank.com",
+      "founded": 1979,
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "Seylan Bank",
+      "short_name": "Seylan",
+      "swift_code": "SEYBLKLX",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Colombo",
+      "website": "https://www.seylan.lk",
+      "founded": 1987,
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "DFCC Bank",
+      "short_name": "DFCC",
+      "swift_code": "DFCCLKLX",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Colombo",
+      "website": "https://www.dfcc.lk",
+      "founded": 1955,
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "Nations Trust Bank",
+      "short_name": "NTB",
+      "swift_code": "NTBCLKLX",
+      "type": "commercial",
+      "category": "private",
+      "headquarters": "Colombo",
+      "website": "https://www.nationstrust.com",
+      "founded": 1999,
+      "active": true
+    }
+  ]
+}
